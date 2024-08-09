@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Hóa đơn bán hàng"
+        android:id="@+id/tb_bill"></item>
+    <item
+        android:title="Quản lý SDT khách hàng"
+        android:id="@+id/tb_lhkh"></item>
+    <item
+        android:title="Chăm sóc khách hàng"
+        android:id="@+id/tb_cskh"></item>
+    <item
+        android:title="Thoát"
+        android:id="@+id/tb_exit"></item>
+</menu>

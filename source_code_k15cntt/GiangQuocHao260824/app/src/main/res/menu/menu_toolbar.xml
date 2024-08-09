@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Album mới ra"
+        android:id="@+id/menu_album"/>
+    <item
+        android:title="Danh sách bài hát"
+        android:id="@+id/menu_listmusic"/>
+    <item
+        android:title="Ca sĩ nổi tiếng"
+        android:id="@+id/menu_singer"/>
+    <item
+        android:title="Thoát"
+        android:id="@+id/menu_exit"/>
+</menu>
